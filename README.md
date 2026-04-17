@@ -22,7 +22,7 @@ Nghiệp vụ (Procedures):
 
 Công nghệ sử dụng
 
-    Hệ quản trị CSDL: Microsoft SQL Server
+    Hệ quản trị CSDL: Microsoft SQL Server 22
 
     Ngôn ngữ: SQL
 
@@ -46,4 +46,3 @@ Hướng dẫn cài đặt
 
     Nhấn F5 (hoặc nút Execute) để khởi tạo toàn bộ Database, Bảng, Triggers, Procedures và dữ liệu mẫu.
 
-Xem kết quả demo ở phần tin nhắn hệ thống (Messages) và các bảng dữ liệu.
