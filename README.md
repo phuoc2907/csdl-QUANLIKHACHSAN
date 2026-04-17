@@ -28,7 +28,7 @@ Công nghệ sử dụng
 
 Thành viên thực hiện
 
-    Nguyễn Duy Phước: Trưởng nhóm - Phân tích hệ thống & Báo cáo.
+    Nguyễn Duy Phước: Phân tích hệ thống & Báo cáo.
 
     Nguyễn Hà Phong: Thiết kế cấu trúc Database & Tables.
 
